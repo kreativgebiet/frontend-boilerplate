@@ -52,11 +52,12 @@ module.exports = {
         ],
       },
       {
-        test: /\.css$/,
+        test: /\.(css|scss)$/,
         include: /client/,
         use: [
           'style-loader',
           'css-loader?modules&importLoaders=1&localIdentName=[local]___[hash:base64:5]',
+          'sass-loader',
           'postcss-loader',
         ],
       },

@@ -3,7 +3,7 @@ import React from 'react';
 import Helmet from 'react-helmet';
 import { MainSection } from '../../components';
 
-import styles from './style.css';
+import styles from './style.scss';
 
 export default function Home() {
   return (

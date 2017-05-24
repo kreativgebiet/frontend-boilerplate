@@ -5,7 +5,7 @@ import Helmet from 'react-helmet';
 import { Header } from '../../components';
 
 import { helmetDefaults } from '../../config';
-import './style.css';
+import './style.scss';
 
 export default function Root(props) {
   return (
