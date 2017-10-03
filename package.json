@@ -43,7 +43,7 @@
     "ip": "^1.1.5",
     "jsdom": "^11.0.0",
     "minimist": "^1.2.0",
-    "mocha": "^3.4.2",
+    "mocha": "^4.0.0",
     "mocha-webpack": "^0.7.0",
     "null-loader": "^0.1.1",
     "react-hot-loader": "next",
