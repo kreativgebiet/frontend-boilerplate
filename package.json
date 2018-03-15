@@ -57,7 +57,7 @@
     "webpack-node-externals": "^1.6.0"
   },
   "dependencies": {
-    "aphrodite": "^1.2.4",
+    "aphrodite": "^2.0.0",
     "autobind-decorator": "^2.1.0",
     "classnames": "^2.2.3",
     "express": "^4.15.3",
